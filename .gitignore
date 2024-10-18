@@ -1,0 +1,4 @@
+
+mvtec/
+*.pyc
+__pycache__
